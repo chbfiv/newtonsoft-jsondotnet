@@ -1,0 +1,10 @@
+{
+  "name": "newtonsoft-jsondotnet",
+  "version": "6.0.6",
+  "description": "Newtonsoft Json.NET",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamesNK/Newtonsoft.Json.git",
+    "root": "lib"
+  }
+}
