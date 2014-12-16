@@ -6,5 +6,10 @@
     "type": "git",
     "url": "https://github.com/JamesNK/Newtonsoft.Json.git",
     "root": "lib"
+  },
+  "dependencies": {
+	  "release": {
+	    "unity-engine": "~5.0.0"
+	  }
   }
 }
